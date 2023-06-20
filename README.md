@@ -6,13 +6,10 @@
     </h1>                 
 </div>
 
-<div id="badges">
-    <a href="-https://img.shields.io/badge/any_text-you_like-blue"></a>
+<div id="badges" align="center">
+    <a href="https://www.linkedin.com/in/killerfrix-undefined-4020b0280/" target="_blank">
+        <img src="https://img.shields.io/badge/any_text-you_like-blue" alt="linkedin badge"/>
 </div>
-
-
-
-
 
 
 <!--
