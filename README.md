@@ -19,7 +19,6 @@
 - 🤔 I’m looking for help with doubts
 - 📫 How to reach me: jajasaludosjoselol@gmail.com
 - ⚡ Fun fact: I like cats!
--->
 
 <div align="left">
     <h3>🛠️ Languages and tools:</h3>
