@@ -8,7 +8,7 @@
 
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/jose-torres-4020b0280/ target="_blank">
-        <img src="https://img.shields.io/badge/linkedin-blue" alt="linkedin badge"/>
+        <img src="https://img.shields.io/badge/linkedin_link-blue" alt="linkedin badge"/>
 </div>
 
 <!--
