@@ -14,7 +14,7 @@
 ---
 
 ### 🐱 About me:
-- 🔭 I’m currently studying a Software Engineer
+- 🔭 I’m currently studying a Software Engineer career
 - 🌱 I’m currently learning python, Java, git
 - 🤔 I’m looking for help with doubts
 - 📫 How to reach me: jajasaludosjoselol@gmail.com
