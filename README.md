@@ -20,3 +20,15 @@
 - 📫 How to reach me: jajasaludosjoselol@gmail.com
 - ⚡ Fun fact: I like cats!
 -->
+
+<div align="left">
+    <h3>🛠️ Languages and tools:</h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="JAVA" alt="JAVA">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python">
+        <img src="" alt="">
+    </div>
+</div>
