@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<div id="Header" align="center"> 
+    <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="200" alt="Gif of a cat">
+</div>
 <!--
 **killerfrix/killerfrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
