@@ -3,13 +3,15 @@
     <h1 align="center">Hello! 👋, I'm Alejandro</h1>
     <h1 align="center">A Bilingual Software Engineer Student who's loving more and more coding!
                 I like solving problems and I'd like to become a professional Software Engineer 
-    </h1>                 
+    </h1>       
+    
+    <div id="badges" align="center">
+        <a href="https://www.linkedin.com/in/jose-torres-4020b0280/" target="_blank">
+            <img src="https://img.shields.io/badge/🔗 linkedin-_👆_-blue" alt="linkedin badge"/>
+    </div>
 </div>
 
-<div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/jose-torres-4020b0280/" target="_blank">
-        <img src="https://img.shields.io/badge/🔗 linkedin-_👆_-blue" alt="linkedin badge"/>
-</div>
+
 
 ---
 
