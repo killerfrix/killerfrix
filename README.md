@@ -2,9 +2,12 @@
     <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="200" />
     <h1 align="center">Hello! 👋, I'm Alejandro</h1>
     <h1 align="center">A Bilingual Software Engineer Student who's loving more and more coding!
-                I like trying to solve problems and learning how to do new things
-                and I'd like to become a professional Software Engineer 
+                I like trying to solve problems and I'd like to become a professional Software Engineer 
     </h1>                 
+</div>
+
+<div id="badges">
+    <a href="https://img.shields.io/badge/any_text-you_like-blue"></a>
 </div>
 
 
