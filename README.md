@@ -1,10 +1,12 @@
 <header id="Header" align="center"> 
-    <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="200" alt="Gif of a cat">
+    <img align="center" src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="200" alt="Gif of a cat">
     <h1 align="center">Hello! 👋, I'm Alejandro</h1>
     <h3 align="center">A Bilingual Software Engineer Student who's loving more and more coding!</h3>
     <h3 align="center">I like trying to solve problems and learning how to do new things</h3>
     <h3 align="center">and I'd like to become a professional Software Engineer</h3>
 </header>
+
+
 
 
 <!--
