@@ -8,9 +8,8 @@
 
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/killerfrix-undefined-4020b0280/" target="_blank">
-        <img src="https://img.shields.io/badge/any_text-you_like-blue" alt="linkedin badge"/>
+        <img src="https://img.shields.io/badge/linkedin-blue" alt="linkedin badge"/>
 </div>
-
 
 <!--
 **killerfrix/killerfrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
