@@ -76,5 +76,3 @@
 ## ⚡ Fun Fact
 
 I like solving complex problems and turning ideas into real working systems 🚀
-
-## 📊 GitHub Stats
