@@ -1,33 +1,80 @@
-<div id="header" align="center"> 
-    <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="200" />
-    <h1 align="center">Hello! 👋, I'm Alejandro</h1>
-    <h1 align="center">A Bilingual Software Engineer Student who's loving more and more coding!
-                I like solving problems and I'd like to become a professional Software Engineer 
-    </h1>                 
-</div>
-
-<div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/jose-torres-4020b0280/" target="_blank">
-        <img src="https://img.shields.io/badge/🔗 linkedin-_👆_-blue" alt="linkedin badge"/>
+<div align="center">
+    <h1>Hi 👋, I'm Jose Torres</h1>
+    <h3>Full Stack Developer | Backend Focus | IoT & Real-Time Systems</h3>
 </div>
 
 ---
 
-### 🐱 About me:
-- 🔭 I’m currently studying a Software Engineer career
-- 🌱 I’m currently learning python, Java, git
-- 🤔 I’m looking for help with doubts
-- 📫 How to reach me: jajasaludosjoselol@gmail.com
-- ⚡ Fun fact: I like cats!
+## 🧠 About Me
 
-<div align="left">
-    <h3>🛠️ Languages and tools:</h3>
-    <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="JAVA" alt="JAVA" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GIT" alt="GIT" width="40" height="40">
-    </div>
-</div>
+- 💻 Full Stack Developer with experience in **Node.js (NestJS), React, and PostgreSQL**
+- ⚙️ Strong focus on **backend architecture, APIs, and real-time systems**
+- 🔌 Experience integrating **hardware (ESP32) with software systems**
+- 🤖 Background in **Machine Learning with Python (CIMAT Diploma)**
+- 🚀 Currently looking for **Junior Backend / Full Stack opportunities**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+- JavaScript / TypeScript
+- Python
+- SQL
+
+### ⚙️ Backend
+- Node.js
+- NestJS
+- Express
+- REST APIs
+- WebSockets
+
+### 🎨 Frontend
+- React
+- HTML / CSS
+
+### 🗄️ Databases
+- PostgreSQL
+- MySQL
+
+### 🔧 Tools
+- Git (advanced usage)
+- Real-time systems
+- API design & integration
+
+---
+
+## 🚀 Projects
+
+### 🔬 IoT Health Monitoring System
+- Integrated **ESP32 sensors with a Node.js backend**
+- Real-time data processing using **WebSockets**
+- Visualized **heart rate and SpO2 data**
+
+---
+
+### 📊 Mining Report Management System
+- Built a **full-stack system using React, NestJS, and PostgreSQL**
+- Designed **modular backend architecture**
+- Implemented **dynamic workflows and report generation**
+
+---
+
+### ⚡ Real-Time Event Management System (Discord Bot)
+- Developed a system for **event scheduling and user interaction**
+- Implemented **automated reminders and participation tracking**
+
+---
+
+## 📫 Contact
+
+- 📧 Email: your.email@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/jose-torres-4020b0280/  
+
+---
+
+## ⚡ Fun Fact
+
+I like solving complex problems and turning ideas into real working systems 🚀
+
+## 📊 GitHub Stats
