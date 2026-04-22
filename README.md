@@ -68,7 +68,7 @@
 
 ## 📫 Contact
 
-- 📧 Email: your.email@gmail.com  
+- 📧 Email: jose.torres.dev04@gmail.com 
 - 💼 LinkedIn: https://www.linkedin.com/in/jose-torres-4020b0280/  
 
 ---
